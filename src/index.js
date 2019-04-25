@@ -1,4 +1,3 @@
-import { test } from './app/app';
-
-test();
+import * as app from './app/app';
+import css from "./main.css";
 
